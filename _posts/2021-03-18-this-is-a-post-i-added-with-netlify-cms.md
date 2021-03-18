@@ -6,3 +6,5 @@ categories: cool cms
 # This is a header
 
 This is some body text
+
+![some alt text](/img/uploads/blake.jpg "Blake")
